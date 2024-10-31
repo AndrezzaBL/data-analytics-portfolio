@@ -1,0 +1,40 @@
+# Data Analytics Portfolio
+## International Payment Systems & Business Intelligence
+
+### About Me
+Data Analytics professional with experience in financial process automation and business intelligence. Specialized in developing integrated dashboard systems and process optimization through low-code tools and data analysis.
+
+### Featured Project: International Payment System Automation
+**Problem:** Manual processing of international payments leading to operational inefficiencies and high error rates.
+
+**Solution:** Developed an automated system integrating multiple platforms to streamline payment processing and validation.
+
+**Key Achievements:**
+- Reduced processing time by 80% (15-30 min/transaction → 20 min/batch)
+- Decreased error rate from 5% to 2%
+- Automated 80% of validation processes
+- Zero booking losses due to payment delays
+
+**Technologies Used:**
+- Data Analysis: Advanced Excel, SQL
+- Automation: Zapier, Airtable
+- Business Intelligence: Custom Dashboards
+- ERPs: Granatum, Hubspot
+
+### Technical Documentation
+- [Project Overview](./documentation/project-overview.md)
+- [Technical Details](./documentation/technical-details.md)
+- [Process Flow](./documentation/process-flow.md)
+
+### Dashboards & Visualizations
+- Payment Monitoring Dashboard
+- KPI Tracking System
+- Performance Metrics
+
+### Code Samples
+- Validation Logic
+- Automation Workflows
+- Data Integration Scripts
+
+---
+*Note: All data has been anonymized to protect sensitive information.*
